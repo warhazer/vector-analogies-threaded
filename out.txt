@@ -1,0 +1,14 @@
+Word Analogy Results
+====================
+Expression: cream * irish
+
+  1) addition             => -4.0945360
+  2) separate             => -4.1246164
+  3) number               => -4.1868210
+  4) which                => -4.2339686
+  5) additionally         => -4.2339841
+  6) each                 => -4.2684983
+  7) whereas              => -4.2781648
+  8) including            => -4.2853932
+  9) respectively         => -4.3022416
+ 10) included             => -4.3205108
