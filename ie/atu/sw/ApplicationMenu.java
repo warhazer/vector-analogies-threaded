@@ -15,7 +15,6 @@ import java.util.Scanner;
  *   <li>Specify the output file path.</li>
  *   <li>Choose the similarity method (cosine, dot product, or Euclidean).</li>
  * </ol>
- * </p>
  *
  * <p>This class coordinates {@link EmbeddingLoader}, {@link WordAnalogy},
  * {@link SimilaritySearch}, and {@link ResultWriter} without depending on

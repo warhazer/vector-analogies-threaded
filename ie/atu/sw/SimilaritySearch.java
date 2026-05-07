@@ -34,7 +34,7 @@ public class SimilaritySearch {
      *       stored as a negative value so the same "highest score wins" sort
      *       can be used for all methods)</li>
      * </ul>
-     * Any unrecognised method string defaults to cosine similarity.</p>
+     * Any unrecognised method string defaults to cosine similarity.
      *
      * @param target     the result vector from a word analogy operation
      * @param embeddings the full word-to-vector map to search through

@@ -16,7 +16,6 @@ public class ResultWriter {
 
     /**
      * Writes a ranked list of word-similarity results to the specified file.
-     * </p>
      *
      * @param results    an ordered list of (word, score) entries to write,
      *                   typically sorted descending by similarity

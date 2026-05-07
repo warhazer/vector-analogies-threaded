@@ -6,7 +6,7 @@ import java.util.Map;
  * Evaluates word analogy expressions against a loaded embeddings map.
  *
  * The supported operators are {@code +}, {@code -}, {@code *}, and {@code /}.
- * Tokens are evaluated strictly left to right.</p>
+ * Tokens are evaluated strictly left to right.
  */
 public class WordAnalogy {
 
